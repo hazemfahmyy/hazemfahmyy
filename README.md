@@ -1,2 +1,2 @@
 ![Github stats](https://stats-hrusoskwh-hazemfahmyy.vercel.app/api?username=hazemfahmyy&hide=issues,prs&show_icons=true&theme=dracula)
-[![Top Langs](https://stats-hrusoskwh-hazemfahmyy.vercel.app/api/top-langs/?username=hazemfahmyy&hide_progress=false&layout=compact&theme=dracula&langs_count=10&hide=mathematica,javascript,html)](https://github.com/hazemfahmyy/github-readme-stats)
+[![Top Langs](https://stats-hrusoskwh-hazemfahmyy.vercel.app/api/top-langs/?username=hazemfahmyy&hide_progress=false&layout=compact&theme=dracula&langs_count=6&hide=mathematica,javascript,html)](https://github.com/hazemfahmyy/github-readme-stats)
