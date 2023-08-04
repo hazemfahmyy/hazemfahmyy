@@ -1,2 +1,2 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hazemfahmyy&hide=issues,prs&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemfahmyy&layout=donut-vertical)](https://github.com/hazemfahmyy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemfahmyy&hide_progress=true&layout=donut-vertical)](https://github.com/hazemfahmyy/github-readme-stats)
