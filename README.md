@@ -1,2 +1,2 @@
-![Github stats](https://stats-nxh759kn4-hazemfahmyy-sigma-five.vercel.app/api?username=hazemfahmyy&hide=issues,prs&show_icons=true&theme=dracula)
-[![Top Langs](https://stats-nxh759kn4-hazemfahmyy-sigma-five.vercel.app/api/top-langs/?username=hazemfahmyy&hide_progress=false&layout=compact)](https://github.com/hazemfahmyy/github-readme-stats)
+![Github stats](https://stats-hazemfahmyy-sigma-five.vercel.app/api?username=hazemfahmyy&hide=issues,prs&show_icons=true&theme=dracula)
+[![Top Langs](https://stats-hazemfahmyy-sigma-five.vercel.app/api/top-langs/?username=hazemfahmyy&hide_progress=false&layout=compact)](https://github.com/hazemfahmyy/github-readme-stats)
