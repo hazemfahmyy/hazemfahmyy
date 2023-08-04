@@ -1,1 +1,1 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=hazemfahmyy&show_icons=true&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hazemfahmyy&hide=issues,prs&show_icons=true&theme=dracula)
